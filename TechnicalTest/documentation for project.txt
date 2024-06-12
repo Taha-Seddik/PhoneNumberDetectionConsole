@@ -1,0 +1,4 @@
+cd \TechnicalTest
+
+Run this command 
+dotnet run --arg1 "./sampleInputText.txt"

@@ -1,0 +1,8 @@
+﻿Here are some sample phone numbers:
+1- Numbers with spaces or dashes as separators  samples : 23 456 7890, 123-456-7890, 91-123-456-7890, 91 123 456 7890 
+2- phonenumber with country codes  samples : +1-123-456-7890, +91-1234567890,  +971 123 456 7890
+3- phonenumber with parentheses for area code  samples: (91) 1234567890, (123) 456-7890, (91)1234567890, (123) 456 7890
+4- without country code samples : 1234567890, 0123-4567890 
+5- English: ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE ZERO
+6- Hindi: एक दो तीन चार पांच छह सात आठ नौ शून्य
+7- Combination of English & Hindi: ONE दो तीन FOUR FIVE छह SEVEN EIGHT NINE शून्य
