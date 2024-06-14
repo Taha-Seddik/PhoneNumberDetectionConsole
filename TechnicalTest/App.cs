@@ -72,7 +72,7 @@ public class App
 
         foreach (var p in phoneNumbers)
         {
-            Console.WriteLine(p.ToString());
+            Console.Write(p.RawNumber + " ");
         }
     }
 }

@@ -2,16 +2,8 @@
 
 public enum PhoneNumberParsedFormat
 {
-    CountryCodeSpaces,
-    CountryCodeDashes,
-    CountryCodeNoDigitsSeparators,
-    ParenthesesSpaces,
-    ParenthesesDashes,
-    ParenthesesNoDigitsSeparators,
-    NoCountryCodeSpaces,
-    NoCountryCodeDashes,
-    NoCountryCodeNoDigitsSeparators,
-    EnglishWords,
+    Numbers,
     HindiWords,
-    CombinationEnglishHindi
+    EnglishWords,
+    EnglishAndHindiWords
 }
